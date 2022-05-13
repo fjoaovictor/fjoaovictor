@@ -1,4 +1,4 @@
-### Olá!!! Eu sou o João Victor 
+### Olá!!! Eu sou o João Victor, um estudante, com o objetivo de se tornar um programador
 ##
 <div display:flex; justify-content-align: center; align="center">
   <a href="https://github.com/fjoaovictor">
